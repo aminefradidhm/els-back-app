@@ -1,4 +1,4 @@
-package com.els.back.com.enums;
+package com.els.back.enums;
 
 /*
 Enumeration of punctuations

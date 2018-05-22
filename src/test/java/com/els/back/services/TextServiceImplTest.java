@@ -1,7 +1,7 @@
 package com.els.back.services;
 
 
-import com.els.back.com.enums.Punctuation;
+import com.els.back.enums.Punctuation;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
